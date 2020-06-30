@@ -6,4 +6,4 @@ FOUNDATION_EXPORT double mParticle_BranchMetricsVersionNumber;
 //! Project version string for mParticle-BranchMetrics.
 FOUNDATION_EXPORT const unsigned char mParticle_BranchMetricsVersionString[];
 
-#import <mParticle_BranchMetrics/MPKitBranchMetrics.h>
+#import "MPKitBranchMetrics.h"
